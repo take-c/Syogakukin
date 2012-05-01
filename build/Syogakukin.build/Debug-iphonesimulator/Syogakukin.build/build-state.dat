@@ -1,0 +1,257 @@
+TSyogakukin
+v7
+r0
+t324029715.990868
+cCheck dependencies
+cProcessInfoPlistFile /Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app/Info.plist Syogakukin-Info.plist
+cCompileXIB /Users/tkc/work/iPhone/Smash/Syogakukin/MainWindow.xib
+cCompileXIB /Users/tkc/work/iPhone/Smash/Syogakukin/SyogakukinViewController.xib
+cProcessPCH /var/folders/1C/1CZ1iNwPGcmBjAPa4AmPyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Syogakukin_Prefix-fpnzhmnwapbhsmbbmyuommaujozk/Syogakukin_Prefix.pch.gch Syogakukin_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Objects-normal/i386/main.o /Users/tkc/work/iPhone/Smash/Syogakukin/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Objects-normal/i386/SyogakukinAppDelegate.o /Users/tkc/work/iPhone/Smash/Syogakukin/Classes/SyogakukinAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Objects-normal/i386/SyogakukinViewController.o /Users/tkc/work/iPhone/Smash/Syogakukin/Classes/SyogakukinViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app/Syogakukin normal i386
+cGenerateDSYMFile /Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app.dSYM /Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app/Syogakukin
+cTouch /Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/tkc/work/iPhone/Smash/Syogakukin/Classes/SyogakukinAppDelegate.h
+c000000004D00F91A00000000000001F0
+t1291909402
+s496
+i<UIKit/UIKit.h>
+
+N/Users/tkc/work/iPhone/Smash/Syogakukin/Classes/SyogakukinAppDelegate.m
+c000000004D00F91A00000000000002B1
+t1291909402
+s689
+i"SyogakukinAppDelegate.h"
+i"SyogakukinViewController.h"
+
+N/Users/tkc/work/iPhone/Smash/Syogakukin/Classes/SyogakukinViewController.h
+c000000004DA005B7000000000000019B
+t1302332855
+s411
+i<UIKit/UIKit.h>
+
+N/Users/tkc/work/iPhone/Smash/Syogakukin/Classes/SyogakukinViewController.m
+c000000004DA0410F00000000000013DD
+t1302348047
+s5085
+i"SyogakukinViewController.h"
+
+N/Users/tkc/work/iPhone/Smash/Syogakukin/MainWindow.xib
+c000000004D00F91A000000000000266D
+t1291909402
+s9837
+
+N/Users/tkc/work/iPhone/Smash/Syogakukin/SyogakukinViewController.xib
+c000000004DA013E60000000000006C25
+t1302336486
+s27685
+
+N/Users/tkc/work/iPhone/Smash/Syogakukin/Syogakukin_Prefix.pch
+c000000004D00F91A00000000000000BD
+t1291909402
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app
+t1302336915
+s238
+
+N/Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app.dSYM
+t1302336915
+s102
+
+N/Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app/Info.plist
+t1292168570
+s605
+
+N/Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app/MainWindow.nib
+t1292168570
+s1516
+
+N/Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app/PkgInfo
+t1292168570
+s8
+
+N/Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app/Syogakukin
+t1302336915
+s20476
+
+N/Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app/SyogakukinViewController.nib
+t1302336604
+s3275
+
+N/Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Objects-normal/i386/Syogakukin.LinkFileList
+c000000004D04ED7A00000000000001A8
+t1292168570
+s424
+
+N/Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Objects-normal/i386/SyogakukinAppDelegate.o
+t1302332896
+s38308
+
+N/Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Objects-normal/i386/SyogakukinViewController.o
+t1302336915
+s38392
+
+N/Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Objects-normal/i386/main.o
+t1292168572
+s5952
+
+N/Users/tkc/work/iPhone/Smash/Syogakukin/main.m
+c000000004D00F91A000000000000016B
+t1291909402
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/1C/1CZ1iNwPGcmBjAPa4AmPyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Syogakukin_Prefix-fpnzhmnwapbhsmbbmyuommaujozk/Syogakukin_Prefix.pch.gch
+t1292168571
+s13026768
+
+NSyogakukin-Info.plist
+c000000004D00F91A000000000000038D
+t1291909402
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies324029715#324029715#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Objects-normal/i386/SyogakukinAppDelegate.o /Users/tkc/work/iPhone/Smash/Syogakukin/Classes/SyogakukinAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324025696.582553
+e324025696.820830
+r1
+xCompileC
+xbuild/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Objects-normal/i386/SyogakukinAppDelegate.o
+x/Users/tkc/work/iPhone/Smash/Syogakukin/Classes/SyogakukinAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/tkc/work/iPhone/Smash/Syogakukin/Classes/SyogakukinAppDelegate.m324025696#324025696#0(0"0(0#0#71"/Users/tkc/work/iPhone/Smash/Syogakukin/Classes/SyogakukinAppDelegate.m4300911832#1972"    cd /Users/tkc/work/iPhone/Smash/Syogakukin    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Syogakukin-generated-files.hmap -I/Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Syogakukin-own-target-headers.hmap -I/Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Syogakukin-all-target-headers.hmap -iquote /Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Syogakukin-project-headers.hmap -F/Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator -I/Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/include -I/Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/DerivedSources/i386 -I/Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/DerivedSources -include /var/folders/1C/1CZ1iNwPGcmBjAPa4AmPyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Syogakukin_Prefix-fpnzhmnwapbhsmbbmyuommaujozk/Syogakukin_Prefix.pch -c /Users/tkc/work/iPhone/Smash/Syogakukin/Classes/SyogakukinAppDelegate.m -o /Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Objects-normal/i386/SyogakukinAppDelegate.o0#
+
+CCompileC build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Objects-normal/i386/SyogakukinViewController.o /Users/tkc/work/iPhone/Smash/Syogakukin/Classes/SyogakukinViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324029715.606676
+e324029715.782952
+r1
+xCompileC
+xbuild/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Objects-normal/i386/SyogakukinViewController.o
+x/Users/tkc/work/iPhone/Smash/Syogakukin/Classes/SyogakukinViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/tkc/work/iPhone/Smash/Syogakukin/Classes/SyogakukinViewController.m324029715#324029715#0(0"0(0#0#74"/Users/tkc/work/iPhone/Smash/Syogakukin/Classes/SyogakukinViewController.m4300911832#1978"    cd /Users/tkc/work/iPhone/Smash/Syogakukin    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Syogakukin-generated-files.hmap -I/Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Syogakukin-own-target-headers.hmap -I/Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Syogakukin-all-target-headers.hmap -iquote /Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Syogakukin-project-headers.hmap -F/Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator -I/Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/include -I/Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/DerivedSources/i386 -I/Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/DerivedSources -include /var/folders/1C/1CZ1iNwPGcmBjAPa4AmPyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Syogakukin_Prefix-fpnzhmnwapbhsmbbmyuommaujozk/Syogakukin_Prefix.pch -c /Users/tkc/work/iPhone/Smash/Syogakukin/Classes/SyogakukinViewController.m -o /Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Objects-normal/i386/SyogakukinViewController.o0#
+
+CCompileC build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Objects-normal/i386/main.o /Users/tkc/work/iPhone/Smash/Syogakukin/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313861371.955991
+e313861372.127520
+r1
+xCompileC
+xbuild/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Objects-normal/i386/main.o
+x/Users/tkc/work/iPhone/Smash/Syogakukin/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/tkc/work/iPhone/Smash/Syogakukin/main.m313861371#313861372#0(0"0(0#0#46"/Users/tkc/work/iPhone/Smash/Syogakukin/main.m4300911832#1930"    cd /Users/tkc/work/iPhone/Smash/Syogakukin    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Syogakukin-generated-files.hmap -I/Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Syogakukin-own-target-headers.hmap -I/Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Syogakukin-all-target-headers.hmap -iquote /Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Syogakukin-project-headers.hmap -F/Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator -I/Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/include -I/Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/DerivedSources/i386 -I/Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/DerivedSources -include /var/folders/1C/1CZ1iNwPGcmBjAPa4AmPyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Syogakukin_Prefix-fpnzhmnwapbhsmbbmyuommaujozk/Syogakukin_Prefix.pch -c /Users/tkc/work/iPhone/Smash/Syogakukin/main.m -o /Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/tkc/work/iPhone/Smash/Syogakukin/MainWindow.xib
+s313861370.564004
+e313861370.924710
+r1
+xCompileXIB
+x/Users/tkc/work/iPhone/Smash/Syogakukin/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib313861370#313861370#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#54"/Users/tkc/work/iPhone/Smash/Syogakukin/MainWindow.xib4300911832#488"    cd /Users/tkc/work/iPhone/Smash/Syogakukin    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app/MainWindow.nib /Users/tkc/work/iPhone/Smash/Syogakukin/MainWindow.xib0#
+
+CCompileXIB /Users/tkc/work/iPhone/Smash/Syogakukin/SyogakukinViewController.xib
+s324029403.232855
+e324029404.968674
+r1
+xCompileXIB
+x/Users/tkc/work/iPhone/Smash/Syogakukin/SyogakukinViewController.xib
+lSLF07#2@39"CompileXIB SyogakukinViewController.xib324029403#324029404#0(0"0(0#0#68"/Users/tkc/work/iPhone/Smash/Syogakukin/SyogakukinViewController.xib4300911832#516"    cd /Users/tkc/work/iPhone/Smash/Syogakukin    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app/SyogakukinViewController.nib /Users/tkc/work/iPhone/Smash/Syogakukin/SyogakukinViewController.xib0#
+
+CGenerateDSYMFile /Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app.dSYM /Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app/Syogakukin
+s324029715.870580
+e324029715.980697
+r1
+xGenerateDSYMFile
+x/Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app.dSYM
+x/Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app/Syogakukin
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Syogakukin.app.dSYM build/Debug-iphonesimulator/Syogakukin.app/Syogakukin324029715#324029715#0(0"0(0#0#93"/Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app/Syogakukin4300911832#395"    cd /Users/tkc/work/iPhone/Smash/Syogakukin    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app/Syogakukin -o /Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app.dSYM0#
+
+CLd /Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app/Syogakukin normal i386
+s324029715.783074
+e324029715.870481
+r1
+xLd
+x/Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app/Syogakukin
+xnormal
+xi386
+lSLF07#2@98"Link /Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app/Syogakukin324029715#324029715#0(0"0(0#0#0"4300911832#884"    cd /Users/tkc/work/iPhone/Smash/Syogakukin    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator -F/Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator -filelist /Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Objects-normal/i386/Syogakukin.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app/Syogakukin0#
+
+CProcessInfoPlistFile /Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app/Info.plist Syogakukin-Info.plist
+s313861370.523222
+e313861370.563865
+r1
+xProcessInfoPlistFile
+x/Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app/Info.plist
+xSyogakukin-Info.plist
+lSLF07#2@29"Process Syogakukin-Info.plist313861370#313861370#0(0"0(0#0#61"/Users/tkc/work/iPhone/Smash/Syogakukin/Syogakukin-Info.plist28992425118793828#491"    cd /Users/tkc/work/iPhone/Smash/Syogakukin    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Syogakukin-Info.plist -genpkginfo /Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app/Info.plist0#
+
+CProcessPCH /var/folders/1C/1CZ1iNwPGcmBjAPa4AmPyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Syogakukin_Prefix-fpnzhmnwapbhsmbbmyuommaujozk/Syogakukin_Prefix.pch.gch Syogakukin_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s313861370.924884
+e313861371.955740
+r1
+xProcessPCH
+x/var/folders/1C/1CZ1iNwPGcmBjAPa4AmPyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Syogakukin_Prefix-fpnzhmnwapbhsmbbmyuommaujozk/Syogakukin_Prefix.pch.gch
+xSyogakukin_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile Syogakukin_Prefix.pch313861370#313861371#0(0"0(0#0#61"/Users/tkc/work/iPhone/Smash/Syogakukin/Syogakukin_Prefix.pch4300911832#1818"    cd /Users/tkc/work/iPhone/Smash/Syogakukin    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Syogakukin-generated-files.hmap -I/Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Syogakukin-own-target-headers.hmap -I/Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Syogakukin-all-target-headers.hmap -iquote /Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/Syogakukin-project-headers.hmap -F/Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator -I/Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/include -I/Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/DerivedSources/i386 -I/Users/tkc/work/iPhone/Smash/Syogakukin/build/Syogakukin.build/Debug-iphonesimulator/Syogakukin.build/DerivedSources -c /Users/tkc/work/iPhone/Smash/Syogakukin/Syogakukin_Prefix.pch -o /var/folders/1C/1CZ1iNwPGcmBjAPa4AmPyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Syogakukin_Prefix-fpnzhmnwapbhsmbbmyuommaujozk/Syogakukin_Prefix.pch.gch0#
+
+CTouch /Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app
+s324029715.980795
+e324029715.990802
+r1
+xTouch
+x/Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app
+lSLF07#2@88"Touch /Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app324029715#324029715#0(0"0(0#0#0"4300911832#283"    cd /Users/tkc/work/iPhone/Smash/Syogakukin    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/tkc/work/iPhone/Smash/Syogakukin/build/Debug-iphonesimulator/Syogakukin.app0#
+

@@ -1,0 +1,281 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* SyogakukinAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 407}}";
+			sepNavSelRange = "{169, 0}";
+			sepNavVisRange = "{0, 490}";
+			sepNavWindowFrame = "{{15, 4}, {750, 774}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SyogakukinAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 472}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 677}";
+			sepNavWindowFrame = "{{15, 4}, {750, 774}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Syogakukin */ = {
+		activeExec = 0;
+		executables = (
+			5A92C40012B1309A00CA4DE1 /* Syogakukin */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* SyogakukinViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 430}}";
+			sepNavSelRange = "{345, 12}";
+			sepNavVisRange = "{0, 375}";
+			sepNavWindowFrame = "{{540, 4}, {750, 774}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* SyogakukinViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {963, 2544}}";
+			sepNavSelRange = "{3260, 0}";
+			sepNavVisRange = "{1305, 571}";
+			sepNavWindowFrame = "{{295, 4}, {750, 774}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 5A92C40012B1309A00CA4DE1 /* Syogakukin */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Syogakukin */;
+		codeSenseManager = 5A92C41112B130BA00CA4DE1 /* Code sense */;
+		executables = (
+			5A92C40012B1309A00CA4DE1 /* Syogakukin */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					541,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					653,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					593,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					613,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 323943478;
+			PBXWorkspaceStateSaveDate = 323943478;
+		};
+		perUserProjectItems = {
+			5A1586F1134F19F400566A56 /* PBXTextBookmark */ = 5A1586F1134F19F400566A56 /* PBXTextBookmark */;
+			5A15892113501FF200566A56 /* PBXTextBookmark */ = 5A15892113501FF200566A56 /* PBXTextBookmark */;
+			5A15892213501FF200566A56 /* PBXTextBookmark */ = 5A15892213501FF200566A56 /* PBXTextBookmark */;
+			5A15892313501FF200566A56 /* PBXTextBookmark */ = 5A15892313501FF200566A56 /* PBXTextBookmark */;
+			5A15892413501FF200566A56 /* PlistBookmark */ = 5A15892413501FF200566A56 /* PlistBookmark */;
+			5A158A1F1350789D00566A56 /* PBXTextBookmark */ = 5A158A1F1350789D00566A56 /* PBXTextBookmark */;
+			5A158A201350789D00566A56 /* PBXTextBookmark */ = 5A158A201350789D00566A56 /* PBXTextBookmark */;
+			5A158A22135078C900566A56 /* PBXTextBookmark */ = 5A158A22135078C900566A56 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 5A92C41012B130BA00CA4DE1 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 430}}";
+			sepNavSelRange = "{221, 0}";
+			sepNavVisRange = "{0, 357}";
+			sepNavWindowFrame = "{{15, 4}, {750, 774}}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* Syogakukin_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 430}}";
+			sepNavSelRange = "{189, 0}";
+			sepNavVisRange = "{0, 189}";
+		};
+	};
+	5A1586F1134F19F400566A56 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SyogakukinAppDelegate.h */;
+		name = "SyogakukinAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 169;
+		rType = 0;
+		vrLen = 490;
+		vrLoc = 0;
+	};
+	5A15892113501FF200566A56 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SyogakukinAppDelegate.m */;
+		name = "SyogakukinAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 677;
+		vrLoc = 0;
+	};
+	5A15892213501FF200566A56 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Syogakukin_Prefix.pch */;
+		name = "Syogakukin_Prefix.pch: 9";
+		rLen = 0;
+		rLoc = 189;
+		rType = 0;
+		vrLen = 189;
+		vrLoc = 0;
+	};
+	5A15892313501FF200566A56 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 13";
+		rLen = 0;
+		rLoc = 221;
+		rType = 0;
+		vrLen = 357;
+		vrLoc = 0;
+	};
+	5A15892413501FF200566A56 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Syogakukin-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/tkc/work/iPhone/Smash/Syogakukin/Syogakukin-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	5A158A1F1350789D00566A56 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SyogakukinViewController.m */;
+		name = "SyogakukinViewController.m: 48";
+		rLen = 0;
+		rLoc = 1069;
+		rType = 0;
+		vrLen = 924;
+		vrLoc = 952;
+	};
+	5A158A201350789D00566A56 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SyogakukinViewController.h */;
+		name = "SyogakukinViewController.h: 15";
+		rLen = 12;
+		rLoc = 345;
+		rType = 0;
+		vrLen = 375;
+		vrLoc = 0;
+	};
+	5A158A22135078C900566A56 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SyogakukinViewController.h */;
+		name = "SyogakukinViewController.h: 15";
+		rLen = 12;
+		rLoc = 345;
+		rType = 0;
+		vrLen = 375;
+		vrLoc = 0;
+	};
+	5A92C40012B1309A00CA4DE1 /* Syogakukin */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Syogakukin;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	5A92C41012B130BA00CA4DE1 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	5A92C41112B130BA00CA4DE1 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
